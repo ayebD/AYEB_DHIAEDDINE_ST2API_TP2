@@ -1,0 +1,6 @@
+C:\Users\great\source\repos\OpenWeahterAPI_TP\OpenWeahterAPI_TP\bin\publish\OpenWeahterAPI_TP.exe
+C:\Users\great\source\repos\OpenWeahterAPI_TP\OpenWeahterAPI_TP\bin\publish\OpenWeahterAPI_TP.dll
+C:\Users\great\source\repos\OpenWeahterAPI_TP\OpenWeahterAPI_TP\bin\publish\OpenWeahterAPI_TP.deps.json
+C:\Users\great\source\repos\OpenWeahterAPI_TP\OpenWeahterAPI_TP\bin\publish\OpenWeahterAPI_TP.runtimeconfig.json
+C:\Users\great\source\repos\OpenWeahterAPI_TP\OpenWeahterAPI_TP\bin\publish\OpenWeahterAPI_TP.pdb
+C:\Users\great\source\repos\OpenWeahterAPI_TP\OpenWeahterAPI_TP\bin\publish\Newtonsoft.Json.dll
